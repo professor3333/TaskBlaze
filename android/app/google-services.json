@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682464391565",
+    "project_id": "taskblaze-d5705",
+    "storage_bucket": "taskblaze-d5705.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682464391565:android:13cd00c77f83afc1eb8dc4",
+        "android_client_info": {
+          "package_name": "com.taskblaze"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3o6HmQ53BKn85SW61k3muWO0vfkU2LuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
